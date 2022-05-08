@@ -1,0 +1,17 @@
+.city-about{
+    margin-bottom: 150px;
+}
+
+.city-title h1{
+    font-size: 35px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.city-java h2{
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,7 @@
+.home-card {
+    width: 22%;
+    height: 285px;
+}
+.home-card img:hover {
+    transform: scale(1.1);
+}

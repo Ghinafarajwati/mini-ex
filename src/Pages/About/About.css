@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+}
+.about-image img{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+}
+.about-title h1 {
+    position: absolute;
+    top: 30%;
+    right: 40%;
+    font-size: 100px;
+    letter-spacing: 10px;
+    color: white;
+}
+.about-gradient{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    height: 400px;
+    background-image: linear-gradient(to top, rgba(0,0,0,1), rgba(0,0,0,0));
+}
+.about-slider{
+    margin-top: -150px;
+    margin-bottom: 100px;
+}
+.about-pic img {
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+}
+.about-text {
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.about-text h1{
+    letter-spacing: 5px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+.about-text p{
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+.about-java {
+    margin-top: -50px;
+}

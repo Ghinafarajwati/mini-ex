@@ -1,0 +1,16 @@
+.city-text {
+    margin-right: 100px;
+    margin-top: 50px;
+}
+.city-text h1{
+    margin-bottom: 20px;
+    position: absolute;
+    top: 30%;
+    left: 13%;
+    font-size: 100px;
+    letter-spacing: 10px;
+}
+.city-text p{
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
